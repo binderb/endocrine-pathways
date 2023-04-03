@@ -8,6 +8,8 @@ I began this project in early 2018, when I was teaching an undergraduate Anatomy
 
 Project code is currently stored here without the many necessary art assets, but a fully functional deployed version is available in my portfolio (see below!). I hope to return to this project someday to update it with modern sprite handling tools and better web integration.
 
+![The main interface of Pathways: The Endocrine System features an anatomical diagram and a hand of hormone cards that can be "played" on different tissues.](./readme/preview_endocrine-pathways.webp)
+
 ## Usage
 
 For now, this repository is an archive for the legacy code, and is not very portable. Still, it may be interesting to peruse in its current state.
