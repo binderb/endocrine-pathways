@@ -12,8 +12,6 @@
 /[Ll]ogs
 
 # Metadata
-*.meta
-*.cs.meta
 *.csproj
 *.sln
 
