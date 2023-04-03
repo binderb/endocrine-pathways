@@ -1,0 +1,22 @@
+# Folders
+/Builds
+/Builds_iOS
+/Artwork
+/Assets/PNG
+/Assets/JPEG
+/Assets/SVG
+/Assets/Fonts
+/Assets/FixedSpline
+/Assets/Gizmos
+/[Ll]ibrary
+/[Ll]ogs
+
+# Metadata
+*.meta
+*.cs.meta
+*.csproj
+*.sln
+
+# Logs
+*.log
+
