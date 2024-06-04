@@ -14,4 +14,4 @@ Project code is currently stored here without the necessary art assets, but a fu
 
 For now, this repository is an archive for the legacy code, and is not very portable. Still, it may be interesting to peruse in its current state.
 
-A deployed instance of this app can be found [here](https://binderlab.org/resources/axis_1_2_0). The game is best experienced on a full-fledged web browser; mobile support is currently limited.
+A deployed instance of this app can be found [here](https://endocrine.binderlab.io). The game is best experienced on a full-fledged web browser; mobile support is currently limited.
